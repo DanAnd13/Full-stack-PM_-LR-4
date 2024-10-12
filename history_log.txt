@@ -1,0 +1,117 @@
+    1  exit
+    2  tourch new
+    3  torch new
+    4  touch new
+    5  cd /workspaces/Full-stack-PM_-LR-4/new
+    6  rm new
+    7  clear
+    8  touch new
+    9  cd new
+   10  clear
+   11  cd /workspaces/Full-stack-PM_-LR-4/new
+   12  rm new
+   13  mkdir new
+   14  rm new
+   15  clear
+   16  rm new
+   17  clear
+   18  mkdir new
+   19  cd /workspaces/Full-stack-PM_-LR-4/new
+   20  touch test.txt
+   21  nano test.txt
+   22  cat test.txt
+   23  chmod 555 test.txt
+   24  ll
+   25  chmod 666 test.txt
+   26  ll
+   27  chmod 466 test.txt
+   28  ll
+   29  chmod 455 test.txt
+   30  ll
+   31  chmod 555 test.txt
+   32  ll
+   33  nano test.txt
+   34  rm -r new
+   35  clear
+   36  cd ..
+   37  rm -r new
+   38  touch script.sh
+   39  nano script.sh
+   40  cat script.ch
+   41  rm script.sh
+   42  clear
+   43  touch script.sh
+   44  nano script.sh
+   45  cat script.sh
+   46  chmod +x script.sh
+   47  ll
+   48  ./script.sh
+   49  echo $PATH
+   50  export PATH=$PATH/workspaces/Full-stack-PM_LR-4
+   51  echo $PATH
+   52  cd ..
+   53  ./script.sh
+   54  source ~/.bashrc
+   55  ./script.sh
+   56  script.sh
+   57  script
+   58  ll
+   59  cd Full-stack-PM_LR-4\
+   60  cd Full-stack-PM_-LR-4
+   61  script.sh
+   62  script
+   63  ./script.sh
+   64  cd ..
+   65  ./script.sh
+   66  cd ..
+   67  source ~/.bashrc
+   68  script
+   69  script.sh
+   70  script.typescript
+   71  nano ~/.bashrc
+   72  source ~/.bashrc
+   73  script
+   74  nano script.sh
+   75  cd Full-stack-PM_-LR-4
+   76  cd /workspaces/Full-stack-PM_-LR-4
+   77  nano script.sh
+   78  cat script.sh
+   79  ./script.sh
+   80  cd ..
+   81  ./script.sh
+   82  script
+   83  echo $PATH
+   84  cd Full-stack-PM_-LR-4
+   85  ll
+   86  script.sh
+   87  cd ..
+   88  script.sh
+   89  chmod +x /Full-stack-PM_-LR-4/script.sh
+   90  chmod +x workspeces/Full-stack-PM_-LR-4/script.sh
+   91  chmod +x workspaces/Full-stack-PM_-LR-4/script.sh
+   92  cd Full-stack-PM_-LR-4
+   93  chmod +x script.sh
+   94  ll
+   95  rm typescript
+   96  ./script.sh
+   97  echo $PATH
+   98  cd C:/Users
+   99  cd C
+  100  cd workspaces/Chapter-3
+  101  cd ..
+  102  script.sh
+  103  ~/.bashrc
+  104  cd Full-stack-PM_-LR-4
+  105  ~/.bashrc
+  106  source ~/.bashrc
+  107  nano ~/.bashrc
+  108  source ~/.bashrc
+  109  chmod +x /workspaces/Full-stack-PM_-LR-4/script.sh
+  110  ll
+  111  echo $PATH
+  112  ./script.sh
+  113  cd ..
+  114  script.sh
+  115  history
+  116  cd Full-stack-PM_-LR-4
+  117  history > history_log.txt
